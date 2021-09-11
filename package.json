@@ -1,0 +1,23 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/client/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sceptre520/now_sol_11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sceptre520/now_sol_11/issues"
+  },
+  "homepage": "https://github.com/sceptre520/now_sol_11#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.26.0"
+  }
+}
